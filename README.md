@@ -3,10 +3,13 @@ A repository containing OS X dynamic walpapers for Ubuntu users with insctructio
 
 ## Available wallpapers:
 ### Mojave Dynamic
+<img src='./mojave_example.gif' alt='example' height='200px'/>
 
 ### BigSur Marketing Dynamic
+<img src='./example.gif' alt='example' height='200px'/>
 
 ### BigSur Dynamic
+<img src='./bigsur_example.gif' alt='example' height='200px'/>
 
 ## How to install dynamic wallpapers from this repo on Ubuntu 
 1. Copy the desired wallpaper folder into `~/Pictures/Wallpapers`
