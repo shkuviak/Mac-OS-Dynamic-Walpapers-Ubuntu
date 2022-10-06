@@ -1,0 +1,33 @@
+
+
+<background>
+  <starttime>
+    <year>2022</year>
+    <month>10</month>
+    <day>06</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>28795.0</duration>
+    <file>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-2.jpg</from>
+    <to>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-1.jpg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>43195.0</duration>
+    <file>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-1.jpg</from>
+    <to>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-2.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+</background>
