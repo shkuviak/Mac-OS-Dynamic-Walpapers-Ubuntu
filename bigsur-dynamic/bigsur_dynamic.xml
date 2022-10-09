@@ -1,10 +1,8 @@
-
-
 <background>
   <starttime>
-    <year>2022</year>
-    <month>10</month>
-    <day>06</day>
+    <year>2014</year>
+    <month>01</month>
+    <day>11</day>
     <hour>0</hour>
     <minute>00</minute>
     <second>00</second>
@@ -89,4 +87,8 @@
     <from>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-dynamic/bigsur-8.jpg</from>
     <to>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-dynamic/bigsur-2.jpg</to>
   </transition>
+  <static>
+    <duration>7200.0</duration>
+    <file>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-dynamic/bigsur-2.jpg</file>
+  </static>
 </background>

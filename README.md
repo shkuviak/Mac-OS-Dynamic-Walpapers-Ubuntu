@@ -83,6 +83,10 @@ Here is the XML we will use to describe our slideshow:
     <to>/home/nico/Pictures/Wallpapers/bigsur-marketing/igsur-marketing-2.jpg</to>
   </transition>
   <!-- 20:00 -->
+  <static>
+    <duration>14400.0</duration>
+    <file>/home/nico/Documents/Mac-OS-Dynamic-Walpapers-Ubuntu/bigsur-marketing/bigsur-marketing-2.jpg</file>
+  </static>
 </background>
 ```
 This XML describes the following scheme:
